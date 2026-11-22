@@ -2,7 +2,7 @@
 A lightweight Windows GUI tool to sign into Steam using an account username and a refresh token. It automatically closes running Steam processes, injects the session data, and launches Steam again ⚡
 
 ✨ How It Works
-📝 Enter your Steam username (if an email is entered, the @... part is stripped automatically) and refresh token in the GUI window.
+📝 Enter your Steam username  and refresh token in the GUI window.
 
 🛑 Terminates active steam.exe and steamwebhelper.exe processes and removes %LOCALAPPDATA%\Steam\local.vdf.
 
